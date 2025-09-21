@@ -1,8 +1,8 @@
 export default {
   // List URLs here directly
   urlsToPing: [
-    "https://example1.com",
-    "https://example2.com",
+    "srv-d37vkc0gjchc73ckkdn0",
+    "srv-d37vkc0gjchc73ckkdn0",
     // Add more URLs as needed
   ],
 
